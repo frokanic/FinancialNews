@@ -1,4 +1,4 @@
-package com.example.financialnewsapp.presentation.ui.theme
+package com.example.financialnewsapp.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

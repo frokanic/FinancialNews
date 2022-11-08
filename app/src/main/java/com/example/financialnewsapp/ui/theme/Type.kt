@@ -1,4 +1,4 @@
-package com.example.financialnewsapp.presentation.ui.theme
+package com.example.financialnewsapp.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

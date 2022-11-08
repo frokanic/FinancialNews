@@ -1,4 +1,4 @@
-package com.example.financialnewsapp.presentation.ui.theme
+package com.example.financialnewsapp.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

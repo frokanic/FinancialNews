@@ -1,4 +1,4 @@
-package com.example.financialnewsapp.presentation
+package com.example.financialnewsapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.financialnewsapp.presentation.ui.theme.FinancialNewsAppTheme
+import com.example.financialnewsapp.ui.theme.FinancialNewsAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
